@@ -45,3 +45,6 @@ client = commands.Bot(...)
 
 ### Contact
 View my contact information on my [telegram](https://t.me/dropoutuwu/)
+
+### Credit
+https://github.com/dropout1337/Discord-iOS
